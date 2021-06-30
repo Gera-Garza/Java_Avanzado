@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Avanzado.iml" filepath="$PROJECT_DIR$/Java_Avanzado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/Lambdas/Lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/MakeReport/MakeReport.iml" filepath="$PROJECT_DIR$/MakeReport/MakeReport.iml" />
     </modules>
   </component>
